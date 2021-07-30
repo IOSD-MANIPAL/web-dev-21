@@ -1,6 +1,6 @@
-# IOSD MANIPAL APP DEV
-Welcome to IOSD MANIPAL repository for App Dev Domain 2021!   
-This repository contains all the resources and solutions to get started with App Dev using Flutter.
+# IOSD MANIPAL WEB DEV
+Welcome to IOSD MANIPAL repository for Web Dev Domain 2021!   
+This repository contains all the resources and solutions to get started with Web Dev.
 
 ## Instructions - 
 * We will be using GitHub to accept and upload all your solutions to the tasks in the winter project
