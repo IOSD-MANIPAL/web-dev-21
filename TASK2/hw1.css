@@ -1,0 +1,84 @@
+body {
+  background-color: #f8ceec;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(#12c2e9, #c471ed, #f64f59);
+}
+.forms {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  padding: 5px;
+  margin: 10px;
+}
+form {
+  margin: 5px;
+}
+.box {
+  background-color: rgba(148, 143, 171, 0.3);
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+}
+.heading {
+  text-align: center;
+}
+h1 {
+  margin: 10px 10px 5px 10px;
+}
+h1 p {
+  margin-top: 0;
+}
+#fname,
+#lname,
+#mailid,
+#pass,
+#confpass {
+  margin: 5px;
+  margin-left: 0;
+  border-radius: 2px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 260px;
+  height: 30px;
+  margin-bottom: 10px;
+}
+
+#submit {
+  background-color: #4dc1a4;
+  width: 150px;
+  height: 40px;
+  text-align: center;
+  color: whitesmoke;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-size: larger;
+}
+.submitbut {
+  display: flex;
+  justify-content: center;
+}
+.tnc {
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  word-spacing: 2px;
+}
+span {
+  color: black;
+}
+.end {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.end p {
+  color: whitesmoke;
+}
+.login {
+  color: purple;
+  text-align: center;
+}
