@@ -1,0 +1,83 @@
+
+
+body {
+
+	background-image: radial-gradient(circle, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+	font-family: 'Segoe UI' ;
+	color: #ffffff;
+	
+
+	
+	}
+	.center {
+		display: table;
+		width: 100%;
+		position: absolute;
+		
+
+
+	
+}
+table {
+
+	width: 100%;
+	margin:  auto;
+	padding: 2%;
+ border-radius: 4px;
+	background-color:rgba(0, 0, 0, 0.5);
+	min-height:  360px;
+	max-width:  420px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	border: 1px solid #58677B;
+}
+
+footer {
+	margin-top: 16px;
+}
+footer>p {
+	color: #f7f1f1;
+}
+footer>p>a {
+	color: #f011a6;
+	text-decoration:none;
+}
+input [type=text],[type=submit], [type=date]  
+{
+	width: 100% ;	
+	border: 1px solid #cccccc ;
+	border-radius: 3px ;
+	outline: black ;
+	font-size: 14px ;
+	padding: 10px;	
+}
+
+
+ p {
+        text-align: center;
+        font-size: 14px;
+        color: #f4fbff;
+        margin: 12px 0;
+    }
+    h1 {
+        text-align: center;
+        font-weight: 500;
+        color: #ffffff;
+        text-align: 31px;
+    }
+
+div {
+	margin:10px 0;
+}
+a {
+	color: #0a860a;
+	text-decoration: none;
+	text-align: center;
+}
+input[type=submit] {
+	background-color: #235a23;
+	background: linear-gradient(to bottom, #58b358 0%, #449944 100%);
+	color: #ffffff;
+	font-weight: 600;
+	border: none;
+}
+
