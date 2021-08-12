@@ -1,0 +1,90 @@
+html {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    display: block;
+    background: linear-gradient(rgb(128, 180, 240), rgb(245, 178, 245));
+    color: white;
+    max-height: 100%;
+}
+
+form {
+    padding-left: 5%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.container {
+    position: relative;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 3%;
+    width: 35%;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.2);
+    max-height: 100%;
+    min-width: 150px;
+}
+
+.new {
+    text-align: center;
+}
+
+.half {
+    width: 93%;
+    margin: auto;
+    height: 20px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border: none;
+    border-radius: 5px;
+}
+
+#final {
+    text-align: center;
+}
+
+#but {
+    background-color: rgb(84, 194, 166);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 35%;
+    height: 30px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    cursor: pointer;
+}
+
+#top {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#con {
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+
+#last {
+    text-align: center;
+    margin-top: 1%;
+}
+
+#login {
+    color: rgb(110, 27, 121);
+}
